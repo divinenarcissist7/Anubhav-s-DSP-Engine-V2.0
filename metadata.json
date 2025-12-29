@@ -1,0 +1,7 @@
+{
+  "name": "Transmutator Web Audio Plugin",
+  "description": "A high-end audio morphing plugin that blends two audio signals using advanced DSP modes like Liquid, Filter, and Spectral transitions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
